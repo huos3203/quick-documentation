@@ -13,7 +13,12 @@
     * [安装 Quick 文件模板](InstallingFileTemplates.md)
     * [更多资料](MoreResources.md)
     * [常见的问题](Troubleshooting.md)
-
+* [Build工具](issue6/issue-6-0-FangYiXiong.md)
+    * [Build过程](issue6/issue-6-1-BeyondVincent.md)
+    * [编译器](issue6/issue-6-2-sunsets.md)
+    * [Mach-O可执行文件](issue6/issue-6-3-yishuiliunian.md)
+    * [深入理解CocoaPods](issue6/issue-6-4-programmer.du.md)
+    * [为iOS建立Travis CI](issue6/issue-6-5-yuan12xin.md)
 * [调试](issue19/issue-19-0-bifidy.md)
     * [调试：案例学习](issue19/issue-19-1-weekwood.md)
     * [与调试器共舞 - LLDB的华尔兹](issue19/issue-19-2-nangege.md)
